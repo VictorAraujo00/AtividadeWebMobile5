@@ -1,0 +1,16 @@
+#conteiner{
+	background: red;
+	width: 700px;
+	padding: 0;
+	margin: auto;
+	text-align: center;
+
+}
+
+#conteiner2 {
+	background: green;
+	width: 700px;
+	padding: 25px;
+	margin: auto;
+
+}
